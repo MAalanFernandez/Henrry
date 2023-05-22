@@ -1,2 +1,1 @@
-# Henrry
-Repositorio del modulo2 de Henrry prueba de creacion 
+Este proyecto es un ejemplo de como crar un repositorio y clonarlo con github a mi ordenador
